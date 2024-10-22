@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: futurab;
+  src: url('./assets/fonts/Futura-Bold.ttf');
+}
+@font-face {
+  font-family: futuram;
+  src: url('./assets/fonts/futura-medium.ttf');
+}
+@font-face {
+  font-family: futuras;
+  src: url('./assets/fonts/Futura-Book.ttf');
+}
